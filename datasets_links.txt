@@ -1,0 +1,5 @@
+The data was gathered using "Programmatically downloading files" method from the U.S. Government’s open data portal, and the data is from new york air quality 'https://data.cityofnewyork.us/api/views/c3uy-2p5r/rows.csv?accessType=DOWNLOAD'
+
+The data was gathered using "Programmatically downloading files" from the CDC Counts of deaths by select causes the dataset for this one can be found into https://data.cdc.gov/resource/bxq8-mugm.csv
+ 
+ 
